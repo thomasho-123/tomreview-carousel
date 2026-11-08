@@ -1,0 +1,7 @@
+{"series": "CHỌN ĐỒ CHẠY", "source": "Minh họa: kênh mẫu",
+ "slides": [
+  {"label": "RUNNING", "html": "<div class='kicker'>Người mới chạy bộ</div><div class='title xl'>Chọn giày <span class='accent'>đúng</span> trước khi chạy xa</div><div class='hand' style='margin-top:40px'>3 câu hỏi trước khi mua</div><div class='look sm'>[[look top=#C6FF3D bottom=#2A2D33 shoes=#F4F4F0]]</div>"},
+  {"label": "TOP 3 TIÊU CHÍ", "html": "<div class='title md'>Xem gì <span class='hl'>đầu tiên?</span></div><div class='rank'><b>01</b><div><h3>Độ êm</h3><p>Chạy đường nhựa dài: ưu tiên đệm dày.</p></div></div><div class='rank'><b>02</b><div><h3>Độ ôm</h3><p>Mũi giày dư khoảng 1 đốt ngón tay.</p></div></div><div class='rank'><b>03</b><div><h3>Trọng lượng</h3><p>Nhẹ giúp chạy nhanh, nhưng kém bền hơn.</p></div></div>"},
+  {"label": "REVIEW MẪU", "html": "<div class='title md'>Chấm điểm <span class='hl'>[[stars 4]]</span></div><div class='pc'><div class='pro'><h4>Ưu</h4><p>✓ Đệm êm</p><p>✓ Thoáng khí</p></div><div class='con'><h4>Nhược</h4><p>✗ Hơi nặng</p><p>✗ Đế nhanh mòn</p></div></div><div class='hand' style='margin-top:50px'>Hợp: chạy 5–10 km mỗi buổi</div>"},
+  {"label": "TIN THỂ THAO", "html": "<span class='tag'>Bóng đá</span><span class='tag'>Kết quả</span><div class='score'><div class='team'>Đội A</div><div class='res'>2–1</div><div class='team'>Đội B</div></div><div class='body'>Khung tỉ số dùng cho tin bóng đá, tennis. Chỉ điền số liệu lấy từ nguồn chính thức.</div>"}
+ ]}
