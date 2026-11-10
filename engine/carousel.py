@@ -106,6 +106,12 @@ body{width:1080px;height:1920px;background:var(--paper);color:var(--ink);font-fa
 .score .team{font:var(--label-font);font-size:40px;text-transform:uppercase;text-align:center}
 .score .res{font:var(--rank-font);font-size:150px;color:var(--accent)}
 .stars{color:var(--accent);letter-spacing:.08em}
+.duo{display:flex;gap:34px;align-items:flex-start;margin-top:36px}
+.duo .card{margin:0;width:500px;flex:none}
+.duo .card img{height:640px;max-height:none;object-fit:cover}
+.duo .swatches{flex-direction:column;gap:22px;margin-top:10px}
+.duo .sw{width:130px}.duo .sw i{width:130px;height:130px}
+.duo .side{flex:1;padding-top:6px}
 .look{display:flex;gap:30px;justify-content:center;margin-top:40px}
 .look.sm svg{height:420px}
 .look svg{height:620px;filter:drop-shadow(0 18px 24px rgba(0,0,0,.18))}

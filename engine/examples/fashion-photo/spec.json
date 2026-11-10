@@ -1,0 +1,34 @@
+{
+ "series": "PHỐI MÀU ĐI TIỆC",
+ "source": "Ảnh: Pixabay (Sunriseforever, sparky_c, LeQuocHuy36)",
+ "slides": [
+  {
+   "label": "PHỐI MÀU ĐI TIỆC",
+   "html": "<div class='kicker'>3 công thức màu</div><div class='title'>Đi tiệc tối mặc gì <span class='accent'>cho sang?</span></div><div class='hand' style='margin-top:24px'>không cần đồ đắt tiền</div><div class='card' style='margin-top:40px;width:560px'><img src='img/cover.jpg' style='height:640px;max-height:none;object-position:50% 20%'></div>",
+   "credit": "Ảnh: Sunriseforever / Pixabay"
+  },
+  {
+   "label": "CÔNG THỨC 01",
+   "html": "<div class='num'>01</div><div class='title md'>Đỏ rượu + <span class='hl'>champagne</span></div><div class='duo'><div class='card'><img src='img/f1.jpg' style='object-position:50% 40%'></div><div class='swatches'>[[swatch #7A1F2B Đỏ rượu]][[swatch #C8A97E Champagne]][[swatch #151312 Đen]]</div></div>",
+   "credit": "Ảnh: sparky_c / Pixabay"
+  },
+  {
+   "label": "CÔNG THỨC 02",
+   "html": "<div class='num'>02</div><div class='title md'>Trắng ngà + <span class='hl'>đen</span></div><div class='duo'><div class='card'><img src='img/f2.jpg' style='object-position:50% 30%'></div><div class='swatches'>[[swatch #F1EBDF Trắng ngà]][[swatch #151312 Đen]][[swatch #B3122E Son đỏ]]</div></div><div class='body' style='margin-top:30px;font-size:38px'>Vest trắng ngà + áo đen: <b>lịch sự mà không nhạt</b>.</div>",
+   "credit": "Ảnh: LeQuocHuy36 / Pixabay"
+  },
+  {
+   "label": "CÔNG THỨC 03",
+   "html": "<div class='num'>03</div><div class='title md'>Lục bảo + <span class='hl'>nâu ấm</span></div><div class='duo'><div class='card'><img src='img/f3.jpg' style='object-position:60% 40%'></div><div class='swatches'>[[swatch #0F6B5A Lục bảo]][[swatch #8A5A3C Nâu ấm]][[swatch #E9DCC8 Kem]]</div></div>",
+   "credit": "Ảnh: Sunriseforever / Pixabay"
+  },
+  {
+   "label": "TRÁNH",
+   "html": "<div class='title md'>3 lỗi <span class='hl'>hay gặp</span></div><div class='note'><p>Quá 3 màu chính trên một bộ</p><p>Phụ kiện lấn át bộ đồ</p><p class='x'>Đen toàn thân, không điểm nhấn</p></div><div class='hand' style='margin-top:70px'>Một điểm nhấn là đủ sang.</div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Tối đa <span class='hl'>3 màu</span>, 1 điểm nhấn.</div><div class='rule'></div><ol class='steps'><li>Chọn 1 màu chủ đạo đậm.</li><li>Thêm 1 màu trung tính.</li><li>Phụ kiện cùng tông kim loại.</li></ol><div class='hand' style='margin-top:30px'>Lưu lại cho buổi tiệc tới!</div>"
+  }
+ ]
+}
