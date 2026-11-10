@@ -1,0 +1,29 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: VnExpress (8/11/2026) · Ảnh minh họa: Pixabay, không phải Oppo Pad Mini",
+ "slides": [
+  {
+   "label": "TABLET MỚI",
+   "html": "<div class='kicker'>Vừa bán ở Việt Nam</div><div class='title md'>Tablet 8,8 inch, giá ngang <span class='accent'>iPad mini 8?</span></div><div class='sub'>(Oppo Pad Mini)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:640px;max-height:none'></div>"
+  },
+  {
+   "label": "MÀN HÌNH & PIN",
+   "html": "<div class='num'>01</div><div class='title md'>OLED nhám 8,8 inch, <span class='hl'>pin 8.000 mAh</span></div><div class='body'>Bề mặt <b>nhám</b> thường giúp đỡ chói khi đọc, ghi chú dưới đèn. Pin <b>8.000 mAh</b> cho nhu cầu xem phim, học tập di động.</div><div class='card'><img src='img/screen.jpg' style='max-height:380px'></div>",
+   "credit": "Ảnh minh họa: kaboompics / Pixabay"
+  },
+  {
+   "label": "GIÁ BÁN",
+   "html": "<div class='num'>02</div><div class='title md'><span class='hl'>25 triệu đồng</span></div><div class='body'>Ngang giá <b>iPad mini 8 bản 256 GB</b>, theo VnExpress.</div><div class='pills'><span class='pill on'>Oppo Pad Mini</span><span class='pill'>iPad mini 8 · 256 GB</span></div><div class='card'><img src='img/price.jpg' style='max-height:450px'></div>",
+   "credit": "Ảnh minh họa: Pexels / Pixabay"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Đổi lại thì <span class='hl'>mất gì?</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ OLED nhám 8,8 inch</p><p>✓ Pin 8.000 mAh</p></div><div class='con'><h4>Thiếu</h4><p>✗ Không có vân tay</p><p>✗ Chip yếu hơn A20 Pro</p></div></div><div class='card'><img src='img/cons.jpg' style='max-height:500px'></div>",
+   "credit": "Ảnh minh họa: kaboompics / Pixabay"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Cùng giá, <span class='hl'>khác ưu tiên.</span></div><div class='rule'></div><ol class='steps'><li>Cần màn nhám để đọc, ghi chú: cân nhắc Oppo.</li><li>Cần hiệu năng, mở khóa nhanh: iPad mini 8.</li><li>Chờ đánh giá pin thực tế trước khi mua.</li></ol><div class='hand' style='margin-top:30px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}

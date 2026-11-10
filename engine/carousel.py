@@ -242,7 +242,7 @@ def main(ch_path, post_dir):
     theme = spec.get("theme") or ch.get("theme", "paper-tech")
     avatar = (ch_path.parent / ch["avatar"]).resolve() if ch.get("avatar") else None
     out = post / "out"; out.mkdir(exist_ok=True)
-    n = len(spec["slides"]); files = []
+    n = len(spec["slides"]); files = []; warnings = []
     with sync_playwright() as p:
         b = p.chromium.launch(executable_path="/usr/bin/google-chrome", args=["--allow-file-access-from-files"])
         pg = b.new_page(viewport={"width": W, "height": H})
@@ -250,6 +250,10 @@ def main(ch_path, post_dir):
             hp = out / f"slide{i:02d}.html"
             hp.write_text(page(s, i, n, spec, ch, theme, avatar).replace("src='img/", f"src='file://{post}/img/"))
             pg.goto(f"file://{hp}"); pg.evaluate("document.fonts.ready"); pg.wait_for_timeout(150)
+            # layout check: content must not hit the swipe/brand zone (y>1420) and should fill the slide (bottom >= 1050)
+            bottom = pg.evaluate("Math.max(0,...[...document.querySelectorAll('.content *')].map(e=>e.getBoundingClientRect().bottom))")
+            if bottom > 1425: warnings.append(f"slide{i:02d}: nội dung tràn xuống vùng nút Vuốt (bottom={bottom:.0f}px > 1425)")
+            elif bottom < 1050: warnings.append(f"slide{i:02d}: slide trống (nội dung chỉ tới {bottom:.0f}px, nên ≥ 1050) – thêm ảnh/khối thông tin hoặc gộp slide")
             f = out / f"slide{i:02d}.jpg"
             pg.screenshot(path=str(f), type="jpeg", quality=92); hp.unlink(); files.append(f)
         b.close()
@@ -260,6 +264,7 @@ def main(ch_path, post_dir):
         sheet.paste(Image.open(f).resize((360, 640)), ((k % cols) * 370, (k // cols) * 650))
     sheet.save(post / "preview.jpg", quality=85)
     print("\n".join(map(str, files + [post / "preview.jpg"])))
+    for w in warnings: print("CẢNH BÁO:", w)
 
 
 if __name__ == "__main__":
