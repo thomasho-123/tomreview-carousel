@@ -1,0 +1,30 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (21/11/2026) · Ảnh minh họa AI tạo bằng Canva, không phải ảnh Hidisc Sound Glasses",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: Hidisc/Magnetic Laboratories không có newsroom/press kit trên tên miền của hãng ghi rõ cho phép dùng ảnh (thông cáo chỉ đăng qua PR TIMES).",
+ "slides": [
+  {
+   "label": "PHỤ KIỆN MỚI",
+   "html": "<div class='kicker'>Vừa bán ở Nhật Bản</div><div class='title md'>Kính nghe nhạc, <span class='accent'>khoảng 25 USD?</span></div><div class='sub'>(Hidisc Sound Glasses)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:640px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Hidisc Sound Glasses"
+  },
+  {
+   "label": "LOA Ở CÀNG KÍNH",
+   "html": "<div class='num'>01</div><div class='title md'>2 loa 10 mm, <span class='hl'>không bịt tai</span></div><div class='body'>Loa nằm ở <b>hai càng kính</b>, kiểu mở (open-ear), nên vẫn nghe được người nói chuyện và xung quanh khi nghe nhạc, podcast. Có <b>micro</b> để gọi điện, điều khiển <b>cảm ứng</b>.</div><div class='card'><img src='img/temple.jpg' style='max-height:300px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Hidisc Sound Glasses"
+  },
+  {
+   "label": "THÔNG SỐ",
+   "html": "<div class='num'>02</div><div class='title md'>Nặng <span class='hl'>khoảng 31 g</span></div><div class='pills'><span class='pill on'>Bluetooth 6.0</span><span class='pill on'>IPX5</span><span class='pill on'>Tròng lọc ánh sáng xanh</span><span class='pill'>Chỉ codec SBC</span><span class='pill'>Sạc nam châm</span></div><div class='body'>Mỗi càng có <b>1 viên pin 80 mAh</b>. Sạc đầy khoảng <b>2,5 giờ</b>. Giá <b>3.980 yên</b> (khoảng 25 USD).</div><div class='note'><p>Không camera, không trợ lý AI</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Pin nghe nhạc <span class='hl'>bao lâu?</span></div><div class='body'>Hai nguồn của hãng ghi <b>khác nhau</b>.</div><div class='bars'><div class='lab'>Thông cáo PR TIMES</div><div class='bar'><div class='f' style='width:100%'>5,5 giờ</div></div><div class='lab'>Trang sản phẩm của hãng</div><div class='bar'><div class='f' style='width:64%'>3,5 giờ</div><div style='flex:1'></div></div></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Nhẹ, nghe mà không bịt tai</p><p>✓ Có micro gọi điện, IPX5</p></div><div class='con'><h4>Chưa rõ</h4><p>✗ Mới bán ở Nhật (Flash Store)</p><p>✗ Chưa xác nhận bán quốc tế</p><p>✗ Chỉ SBC</p></div></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Kính thường, <span class='hl'>thêm loa.</span></div><div class='rule'></div><ol class='steps'><li>2 loa 10 mm mở, có micro, nặng ~31 g.</li><li>Bluetooth 6.0, IPX5, giá 3.980 yên.</li><li>Pin 3,5 hay 5,5 giờ: chờ hãng làm rõ.</li></ol><div class='card'><img src='img/desk.jpg' style='max-height:175px'></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Hidisc Sound Glasses"
+  }
+ ]
+}
