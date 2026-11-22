@@ -1,0 +1,34 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (21/11/2026) · Ảnh minh họa AI tạo bằng Canva, không phải ảnh Ugreen X740",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: Ugreen X740 chỉ ra mắt ở Trung Quốc qua JD.com, không tìm thấy press kit có điều khoản cho phép dùng ảnh.",
+ "slides": [
+  {
+   "label": "CỦ SẠC MỚI",
+   "html": "<div class='kicker'>Vừa ra mắt ở Trung Quốc</div><div class='title md'>Củ sạc 60W có màn hình, <span class='accent'>giá 109 tệ?</span></div><div class='sub'>(Ugreen X740)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:640px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Ugreen X740"
+  },
+  {
+   "label": "CÔNG SUẤT",
+   "html": "<div class='num'>01</div><div class='title md'>1 cổng USB-C, <span class='hl'>tối đa 60W</span></div><div class='body'>Điện áp <b>5V, 9V, 12V, 15V, 20V</b>, dòng tối đa <b>3A</b>. Làm cho iPhone 18 Pro/Pro Max, vẫn sạc được điện thoại, tablet, laptop khác.</div><div class='pills'><span class='pill on'>USB PD</span><span class='pill on'>AVS</span><span class='pill on'>PPS</span></div><div class='note'><p>Có chế độ ưu tiên PPS</p><p>cho máy Android tương thích</p></div>"
+  },
+  {
+   "label": "KÍCH THƯỚC",
+   "html": "<div class='num'>02</div><div class='title md'>44 × 40 × 38 mm, <span class='hl'>khoảng 96 g</span></div><div class='body'>Màn hình nhỏ đặt nghiêng <b>45°</b>, hiện công suất, điện áp, dòng điện, nhiệt độ và cả emoji tùy chỉnh.</div><div class='card'><img src='img/size.jpg' style='max-height:440px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Ugreen X740"
+  },
+  {
+   "label": "HÃNG HỨA GÌ",
+   "html": "<div class='num'>03</div><div class='title md'>iPhone 18 Pro lên <span class='hl'>50% trong 15 phút</span></div><div class='body'>Theo Ugreen công bố. Củ sạc dùng <b>GaN thế hệ 7</b> và hệ thống <b>Thermal Guard</b>, hãng nói theo dõi nhiệt độ <b>10,8 triệu lần mỗi ngày</b>.</div><div class='bars'><div class='lab'>Hãng nói nhận diện được</div></div><div class='pills'><span class='pill'>iPhone Duo</span><span class='pill'>iPhone 18 Pro / Pro Max</span><span class='pill'>iPhone 17 &amp; 16</span><span class='pill'>MacBook Air</span></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Trước khi <span class='hl'>hóng về</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ 60W, có AVS cho iPhone 18 Pro</p><p>✓ Màn hình xem thông số</p><p>✓ Giá 109 tệ (~16 USD)</p></div><div class='con'><h4>Chưa rõ</h4><p>✗ Chỉ bán ở Trung Quốc qua JD.com</p><p>✗ Chưa có giá, lịch bán nơi khác</p><p>✗ Chỉ có 1 cổng</p></div></div><div class='note'><p>50% trong 15 phút</p><p>là số của hãng, chưa kiểm chứng</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Nhỏ, rẻ, <span class='hl'>có màn hình.</span></div><div class='rule'></div><ol class='steps'><li>60W, 1 cổng USB-C, có PD, AVS, PPS.</li><li>Màn hình nghiêng 45° hiện công suất, nhiệt độ.</li><li>Mới bán ở Trung Quốc, giá 109 tệ.</li></ol><div class='card'><img src='img/desk.jpg' style='max-height:170px'></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Ugreen X740"
+  }
+ ]
+}
