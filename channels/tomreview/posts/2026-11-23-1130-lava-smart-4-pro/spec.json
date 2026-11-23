@@ -1,0 +1,30 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (22/11/2026) · Ảnh minh họa AI tạo bằng Canva, không phải ảnh Lava Smart 4 Pro",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: trang press-and-media của Lava (lavamobiles.com) không có thông cáo Smart 4 Pro và không thấy điều khoản ghi rõ cho phép dùng ảnh.",
+ "slides": [
+  {
+   "label": "ĐIỆN THOẠI MỚI",
+   "html": "<div class='kicker'>Vừa ra mắt ở Ấn Độ</div><div class='title md'>Pin 7.000 mAh, còn <span class='accent'>jack tai nghe 3.5 mm?</span></div><div class='sub'>(Lava Smart 4 Pro)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:640px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Lava Smart 4 Pro"
+  },
+  {
+   "label": "PIN & SẠC",
+   "html": "<div class='num'>01</div><div class='title md'>Pin to hơn, <span class='hl'>sạc vẫn 18W</span></div><div class='body'>Smart 4 và Smart 4 Plus ra trước đó dùng pin <b>5.000 mAh</b>. Bản Pro tăng lên <b>7.000 mAh</b>, nhưng sạc chỉ <b>18W</b>.</div><div class='bars'><div class='lab'>Smart 4 Pro</div><div class='bar'><div class='f' style='width:100%'>7.000 mAh</div></div><div class='lab'>Smart 4 / Smart 4 Plus</div><div class='bar'><div class='f' style='width:71%'>5.000 mAh</div><div style='flex:1'></div></div></div>"
+  },
+  {
+   "label": "THÔNG SỐ",
+   "html": "<div class='num'>02</div><div class='title md'>Màn 6,75 inch <span class='hl'>90Hz</span></div><div class='pills'><span class='pill on'>LCD HD+</span><span class='pill on'>Unisoc T610 (12 nm)</span><span class='pill on'>4GB + 64GB</span><span class='pill on'>microSD tới 512GB</span><span class='pill'>Camera sau 13MP</span><span class='pill'>Selfie 5MP</span><span class='pill'>2 SIM 4G VoLTE</span><span class='pill'>Vân tay cạnh bên</span></div><div class='body'>Có <b>jack 3.5 mm</b> cho tai nghe có dây.</div><div class='card'><img src='img/jack.jpg' style='max-height:120px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Lava Smart 4 Pro"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Giá 10.999 rupee <span class='hl'>(~119 USD)</span>, đổi lại?</div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Pin 7.000 mAh</p><p>✓ Jack 3.5 mm, thẻ nhớ</p><p>✓ Màn 90Hz</p></div><div class='con'><h4>Thiếu</h4><p>✗ Sạc chỉ 18W</p><p>✗ Chạy Android 16, không phải 17</p><p>✗ Chỉ 2 năm cập nhật bảo mật</p><p>✗ Chỉ một bản 4GB/64GB</p></div></div><div class='note'><p>Chỉ ở Ấn Độ, chưa rõ ngày bán.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Máy rẻ, <span class='hl'>ưu tiên pin.</span></div><div class='rule'></div><ol class='steps'><li>Pin 7.000 mAh, sạc 18W.</li><li>Màn 6,75 inch 90Hz, còn jack 3.5 mm.</li><li>Chip T610, 4GB/64GB, 2 năm bảo mật.</li></ol><div class='card'><img src='img/charge.jpg' style='max-height:200px'></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Lava Smart 4 Pro"
+  }
+ ]
+}
