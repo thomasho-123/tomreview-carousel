@@ -1,0 +1,35 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (23/11/2026) · Ảnh minh họa AI tạo bằng Canva, không phải ảnh Kodak SlideTag",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: SlideTag do Reto Production làm theo giấy phép thương hiệu Kodak, chỉ có trang bán hàng kodak.retopro.co, không thấy newsroom/press kit ghi rõ cho phép dùng ảnh.",
+ "slides": [
+  {
+   "label": "PHỤ KIỆN MỚI",
+   "html": "<div class='kicker'>Vừa mở bán 22/11</div><div class='title md'>Móc khóa có <span class='accent'>màn E Ink màu</span>, tìm được bằng Find My?</div><div class='sub'>(Kodak SlideTag)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:600px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Kodak SlideTag"
+  },
+  {
+   "label": "MÀN HÌNH",
+   "html": "<div class='num'>01</div><div class='title md'>Hình <span class='hl'>khung phim slide 35mm</span></div><div class='body'>Màn <b>E Ink 1,54 inch</b>, 240×240 điểm ảnh, <b>6 màu mực</b>. E Ink giữ hình khi không tốn điện, nên ảnh cuối vẫn hiện.</div><div class='pills'><span class='pill on'>Lưu tới 12 ảnh</span><span class='pill on'>Bluetooth 5.4</span><span class='pill on'>App iOS & Android</span><span class='pill'>Mã QR</span><span class='pill'>Thẻ tên</span><span class='pill'>Đếm ngược</span></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Kodak SlideTag"
+  },
+  {
+   "label": "TÌM ĐỒ",
+   "html": "<div class='num'>02</div><div class='title md'>Chạy với <span class='hl'>Find My</span> và <span class='hl'>Find Hub</span></div><div class='body'>Theo dõi qua Bluetooth, tầm tới <b>30 m</b> ở nơi thoáng, còi <b>75 dB</b>. Apple Find My cần <b>iOS 26</b> trở lên; Google Find Hub cần <b>Android 9</b> trở lên.</div><div class='card'><img src='img/cafe.jpg' style='max-height:300px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Kodak SlideTag"
+  },
+  {
+   "label": "THÔNG SỐ",
+   "html": "<div class='num'>03</div><div class='title md'>Nhẹ <span class='hl'>16,6 g</span>, pin cúc áo</div><div class='bars'><div class='lab'>Kích thước</div><div class='bar'><div class='f' style='width:100%'>39,3 × 46 × 7,58 mm</div></div><div class='lab'>Pin</div><div class='bar'><div class='f' style='width:100%'>CR2032, khoảng 12 tháng*</div></div><div class='lab'>Kháng bụi, nước</div><div class='bar'><div class='f' style='width:100%'>IP54</div></div></div><div class='note'><p>*Theo trang bán lẻ, tùy cách dùng.</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>34,99 USD <span class='hl'>một hộp mù</span>, đổi lại?</div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Màn E Ink màu, giữ ảnh</p><p>✓ Cả Apple lẫn Google</p><p>✓ IP54 chống bụi, nước bắn</p></div><div class='con'><h4>Thiếu</h4><p>✗ Không có UWB như AirTag</p><p>✗ Không chọn được mẫu</p><p>✗ Phải mở app, mở khóa máy khi gửi ảnh</p></div></div><div class='note'><p>Đủ bộ 8 mẫu: 279,92 USD.</p><p>Vài cửa hàng ở Mỹ báo hết hàng.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Món đồ chơi <span class='hl'>có ích.</span></div><div class='rule'></div><ol class='steps'><li>Màn E Ink màu 1,54 inch, lưu 12 ảnh.</li><li>Tìm qua Find My hoặc Find Hub, tầm 30 m.</li><li>34,99 USD/hộp mù, pin CR2032.</li></ol><div class='card'><img src='img/cover2.jpg' style='max-height:220px'></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Kodak SlideTag"
+  }
+ ]
+}
