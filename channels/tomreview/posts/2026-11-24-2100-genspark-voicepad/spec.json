@@ -1,0 +1,34 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (22/11/2026) · Ảnh minh họa AI tạo bằng Canva, không phải ảnh SecondBrain VoicePad",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: không xác minh được press kit Genspark (trang genspark.ai/business/press không tải được), ảnh trong bài gốc là ảnh báo đăng lại, thuộc danh sách cấm.",
+ "slides": [
+  {
+   "label": "THIẾT BỊ AI",
+   "html": "<div class='kicker'>Gọi vốn Kickstarter từ 24/11</div><div class='title md'>Bàn phím <span class='accent'>5 phím</span> chỉ để nói chuyện với AI?</div><div class='sub'>(SecondBrain VoicePad của Genspark)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:620px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải SecondBrain VoicePad"
+  },
+  {
+   "label": "NÓI THAY GÕ",
+   "html": "<div class='num'>01</div><div class='title md'>Giữ phím dài, <span class='hl'>nói là ra chữ</span></div><div class='body'>Hãng nói phần mềm tự bỏ <b>từ đệm, lặp từ</b>. Có <b>2 micro</b> lọc ồn, dịch <b>50+ ngôn ngữ sang tiếng Anh</b>.</div><div class='pills'><span class='pill on'>ChatGPT</span><span class='pill on'>Claude</span><span class='pill on'>Gemini</span><span class='pill on'>Notion</span></div><div class='card'><img src='img/dictate.jpg' style='max-height:200px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải SecondBrain VoicePad"
+  },
+  {
+   "label": "THÔNG SỐ",
+   "html": "<div class='num'>02</div><div class='title md'>Nhôm nguyên khối, <span class='hl'>nặng 85 g</span></div><div class='note'><p>5 phím CHERRY MX Ultra Low Profile.</p><p>Bluetooth hoặc USB-C.</p><p>Pin khoảng 20 giờ, có đế nam châm.</p><p>Bộ nhớ trong để ghi âm.</p></div><div class='card'><img src='img/mount.jpg' style='max-height:190px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải SecondBrain VoicePad"
+  },
+  {
+   "label": "GIÁ BÁN",
+   "html": "<div class='num'>03</div><div class='title md'>Giá gốc <span class='hl'>169 USD</span></div><div class='bars'><div class='lab'>Cửa hàng Genspark</div><div class='bar'><div class='f' style='width:100%'>169 USD</div></div><div class='lab'>Kickstarter</div><div class='bar'><div class='f' style='width:88%'>119–149 USD</div></div><div class='lab'>Đặt chỗ trước (giá VIP)</div><div class='bar'><div class='f' style='width:59%'>99 USD</div></div></div><div class='note'><p>Windows, Mac · giao dự kiến 1/2027</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Đây là hàng <span class='hl'>gọi vốn</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ 1 năm đọc chính tả không giới hạn</p><p>✓ 300 phút/tháng tóm tắt cuộc họp</p><p>✓ Đổi phím theo ý mình</p></div><div class='con'><h4>Lưu ý</h4><p>✗ Sau 1 năm: 4.000 từ/tuần miễn phí</p><p>✗ Dịch chỉ sang tiếng Anh</p><p>✗ Chưa giao hàng, chưa ai dùng thử</p></div></div><div class='note'><p>Notebookcheck: gọi vốn luôn có rủi ro,</p><p>nên không khuyên ủng hộ dự án.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Ý tưởng hay, <span class='hl'>nhưng chờ hàng thật.</span></div><div class='rule'></div><ol class='steps'><li>Thiết bị 5 phím để nói, ghi chú, gọi AI.</li><li>Giá gốc 169 USD, gọi vốn từ 99 USD.</li><li>Hàng gọi vốn, dự kiến giao 1/2027.</li></ol><div class='note'><p>Chưa có thông tin bán ở Việt Nam.</p></div><div class='hand' style='margin-top:30px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
