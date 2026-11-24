@@ -1,0 +1,29 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (22/11/2026) · Ảnh minh họa AI tạo bằng Canva, không phải ảnh củ sạc Honor",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: ảnh trong bài gốc lấy từ Weibo của lãnh đạo Honor (Lin Lin), thuộc danh sách cấm; Honor không có newsroom/press kit ghi rõ cho phép dùng ảnh (đã ghi nhận 22/11).",
+ "slides": [
+  {
+   "label": "CỦ SẠC MỚI",
+   "html": "<div class='kicker'>Honor hé lộ, hẹn ra mắt 23/11</div><div class='title md'>Củ sạc <span class='accent'>120W</span> mà chỉ nặng khoảng 104 g?</div><div class='sub'>(Honor GaN hai cổng USB-C)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:620px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải củ sạc Honor"
+  },
+  {
+   "label": "CÔNG SUẤT",
+   "html": "<div class='num'>01</div><div class='title md'>Một cổng <span class='hl'>tới 120W</span></div><div class='body'>Hai cổng <b>USB-C</b>. Cắm cả hai thì chia <b>100W + 20W</b>.</div><div class='bars'><div class='lab'>Một cổng</div><div class='bar'><div class='f' style='width:100%'>120W</div></div><div class='lab'>Hai cổng cùng lúc</div><div class='bar'><div class='f' style='width:83%'>100W</div></div><div class='bar'><div class='f' style='width:17%'>20W</div></div><div class='lab'>Apple AVS</div><div class='bar'><div class='f' style='width:50%'>60W</div></div></div>"
+  },
+  {
+   "label": "TƯƠNG THÍCH",
+   "html": "<div class='num'>02</div><div class='title md'>Nhiều chuẩn <span class='hl'>sạc nhanh</span></div><div class='body'>Bài gốc cho rằng sạc được nhiều loại máy.</div><div class='pills'><span class='pill on'>PPS</span><span class='pill on'>UFCS</span><span class='pill on'>SCP</span><span class='pill on'>PDO</span><span class='pill on'>Apple AVS</span></div><div class='note'><p>Kèm cáp USB-C dài 1 m.</p><p>120W cần cáp chịu 20V/6A.</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Mới là ảnh hé lộ, <span class='hl'>còn thiếu gì?</span></div><div class='pc'><div class='pro'><h4>Đã biết</h4><p>✓ Khoảng 104 g</p><p>✓ 2 cổng USB-C, tới 120W</p><p>✓ Có Apple AVS 60W</p></div><div class='con'><h4>Chưa rõ</h4><p>✗ Chưa có giá</p><p>✗ Chưa rõ kích thước</p><p>✗ Chưa rõ bán ở nước nào</p></div></div><div class='note'><p>Nguồn: Weibo của Lin Lin (Honor).</p><p>Chữ trên hộp: bản dịch máy.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Nhỏ, nhẹ, <span class='hl'>nhưng chờ giá đã.</span></div><div class='rule'></div><ol class='steps'><li>Hai cổng USB-C, một cổng tới 120W.</li><li>Cắm hai máy: 100W + 20W.</li><li>Chưa có giá và thị trường bán.</li></ol><div class='card'><img src='img/wall.jpg' style='max-height:260px'></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải củ sạc Honor"
+  }
+ ]
+}
