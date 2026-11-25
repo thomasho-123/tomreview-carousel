@@ -1,0 +1,34 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (23/11/2026), dẫn Bloomberg · Ảnh minh họa AI tạo bằng Canva, không phải ảnh Nothing Ear (note)",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: không tìm thấy newsroom/press kit trên nothing.tech ghi rõ cho phép dùng ảnh; ảnh hộp sạc Nothing gửi cho Bloomberg và ảnh trên X thuộc danh sách cấm.",
+ "slides": [
+  {
+   "label": "TAI NGHE AI",
+   "html": "<div class='kicker'>Nothing hé lộ trước ngày ra mắt</div><div class='title md'>Hộp sạc tai nghe <span class='accent'>biết ghi âm</span> cuộc họp?</div><div class='sub'>(Nothing Ear (note))</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:620px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Nothing Ear (note)"
+  },
+  {
+   "label": "HỘP SẠC",
+   "html": "<div class='num'>01</div><div class='title md'>Hộp sạc có <span class='hl'>2 nút bấm</span> riêng</div><div class='body'>Nothing xác nhận với Bloomberg: hộp sạc có nút <b>Talk</b>, nút <b>Record</b>, một <b>micro</b> và <b>2 đèn LED</b>.</div><div class='pills'><span class='pill on'>Talk</span><span class='pill on'>Record</span><span class='pill on'>Micro</span><span class='pill on'>2 LED</span></div><div class='card'><img src='img/hand.jpg' style='max-height:260px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Nothing Ear (note)"
+  },
+  {
+   "label": "DÙNG ĐỂ LÀM GÌ",
+   "html": "<div class='num'>02</div><div class='title md'>Ghi âm, <span class='hl'>chuyển thành chữ</span></div><div class='note'><p>Ghi âm và chép lời cuộc họp.</p><p>Gửi lệnh cho trợ lý AI trên điện thoại.</p><p>Đeo tai nghe vẫn dùng được.</p><p>Khi gọi điện, ghi âm được cả cuộc gọi.</p></div><div class='card'><img src='img/meeting.jpg' style='max-height:200px'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Nothing Ear (note)"
+  },
+  {
+   "label": "CARL PEI NÓI GÌ",
+   "html": "<div class='num'>03</div><div class='title md'>Nút bấm <span class='hl'>tự lập trình</span> được?</div><div class='body'>Theo Bloomberg, nút và micro được cho là <b>lập trình được</b>, điều khiển cả phần mềm bên thứ ba.</div><div class='pills'><span class='pill on'>Lập trình</span><span class='pill on'>App ngoài</span></div><div class='note'><p>Carl Pei, sáng lập Nothing:</p><p>AI kiểu này chưa sớm đại trà.</p><p>Nothing muốn hỗ trợ nhiều AI.</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Còn <span class='hl'>quá nhiều ẩn số</span></div><div class='pc'><div class='pro'><h4>Đã biết</h4><p>✓ Nút Talk, Record trên hộp</p><p>✓ Micro + 2 đèn LED</p><p>✓ Ghi âm, chép lời, gọi AI</p></div><div class='con'><h4>Chưa biết</h4><p>✗ Giá bán, thị trường</p><p>✗ Pin, chống ồn, codec</p><p>✗ Ngày ra mắt chính xác</p></div></div><div class='note'><p>Bài báo nhắc ngày 8/12,</p><p>nhưng câu chữ chưa rõ ràng.</p><p>Giá, thông số dự kiến có</p><p>muộn nhất vào 8/12.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Tai nghe kiêm <span class='hl'>máy ghi âm AI?</span></div><div class='rule'></div><ol class='steps'><li>Hộp sạc có nút Talk, Record và micro.</li><li>Ghi âm, chép lời họp, gửi lệnh cho AI.</li><li>Chưa có giá, pin hay ngày bán chính xác.</li></ol><div class='pills'><span class='pill on'>Ghi âm</span><span class='pill on'>Chép lời</span><span class='pill on'>Gọi AI</span></div><div class='hand' style='margin-top:30px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
