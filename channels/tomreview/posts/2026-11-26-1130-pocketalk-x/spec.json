@@ -1,0 +1,33 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (24/11/2026) · Ảnh minh họa AI (Canva) và Pixabay, không phải ảnh Pocketalk X",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: newsroom pocketalk.com không có press kit/trang ảnh báo chí và không có câu ghi rõ cho phép dùng ảnh; không thấy ảnh Pocketalk X ở đó; ảnh trong bài gốc là ảnh báo đăng lại (thuộc danh sách cấm). Đã kiểm tra 26/11. Slide 2 dùng ảnh Pixabay id 2899920 (geralt) vì Canva báo quota cooldown khi xuất ảnh thứ 2.",
+ "slides": [
+  {
+   "label": "AI TRÊN THIẾT BỊ",
+   "html": "<div class='kicker'>Pocketalk, Nhật Bản</div><div class='title md'>Máy phiên dịch AI <span class='accent'>2 màn hình</span> cho quầy lễ tân?</div><div class='sub'>(Pocketalk X, bán ở Nhật từ 18/12)</div><div class='card' style='margin-top:40px'><img src='img/cover.jpg' style='height:560px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Pocketalk X"
+  },
+  {
+   "label": "THIẾT KẾ",
+   "html": "<div class='num'>01</div><div class='title md'>Hai người, <span class='hl'>hai màn hình</span></div><div class='body'>Hai màn cảm ứng <b>10,25 inch</b>, mỗi bên tự xem bản dịch, khỏi chuyền máy. Một màn <b>tháo rời</b>, đặt cách thân máy ~30 cm cho quầy có vách ngăn.</div><div class='pills'><span class='pill on'>2 × 10,25 inch</span><span class='pill on'>~2,2 kg</span></div><div class='card'><img src='img/bell.jpg' style='max-height:190px;object-fit:contain;background:#fff'></div>",
+   "credit": "Ảnh minh họa: geralt / Pixabay"
+  },
+  {
+   "label": "CÁCH DỊCH",
+   "html": "<div class='num'>02</div><div class='title md'>Dịch 2 chiều <span class='hl'>44 ngôn ngữ</span></div><div class='note'><p>Tự nhận ra người nói dùng tiếng gì.</p><p>2 micro định hướng, lọc ồn bằng AI.</p><p>Có người lại gần, màn tự sáng.</p></div><div class='body'>Dịch <b>trên đám mây</b>, tự chọn engine AI theo cặp ngôn ngữ.</div><div class='pills'><span class='pill on'>Khách sạn</span><span class='pill on'>Sân bay</span><span class='pill on'>Bệnh viện</span></div>"
+  },
+  {
+   "label": "GIÁ BÁN",
+   "html": "<div class='num'>03</div><div class='title md'>Giá ở Nhật: <span class='hl'>không hề rẻ</span></div><div class='note'><p>Mua: 440.000 yên (~2.765 USD).</p><p>Đã gồm 2 năm phần mềm.</p><p>Phí năm sau: 132.000 yên.</p><p>Thuê: từ 22.000 yên/tháng.</p></div><div class='pills'><span class='pill on'>Bán ở Nhật từ 18/12</span></div><div class='body'>Đã thử thực tế tại sân bay quốc tế Kansai (Osaka) vào <b>tháng 10/2026</b>.</div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Đừng vội, <span class='hl'>còn điểm trừ</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ 2 màn, khỏi chuyền máy</p><p>✓ 44 ngôn ngữ</p><p>✓ Có màn tháo rời</p></div><div class='con'><h4>Thiếu</h4><p>✗ Luôn cần internet</p><p>✗ Không có mạng di động</p><p>✗ Cần sạc USB-C ≥ 45W</p></div></div><div class='note'><p>Kết nối chỉ có Wi-Fi 5.</p><p>Hiện mới bán ở Nhật.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Máy dịch cho quầy, <span class='hl'>không phải đồ bỏ túi.</span></div><div class='rule'></div><ol class='steps'><li>2 màn 10,25 inch, dịch 44 ngôn ngữ.</li><li>Dịch trên đám mây, cần Wi-Fi liên tục.</li><li>440.000 yên, bán ở Nhật từ 18/12.</li></ol><div class='pills'><span class='pill on'>Lễ tân</span><span class='pill on'>Quầy thủ tục</span><span class='pill on'>Phòng khám</span></div><div class='hand' style='margin-top:10px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
