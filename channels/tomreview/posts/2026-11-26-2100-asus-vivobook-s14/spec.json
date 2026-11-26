@@ -1,0 +1,33 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (25/11/2026) · Ảnh minh họa AI (Canva) và Pixabay, không phải ảnh Asus Vivobook S14",
+ "image_license": "Ảnh minh họa AI (Canva). Không dùng ảnh hãng: press.asus.com không có ảnh Vivobook S14 S5408 và không thấy câu ghi rõ cho phép dùng ảnh cho báo chí (chân trang chỉ ghi 'All rights reserved'); ảnh trong bài gốc là ảnh báo đăng lại (thuộc danh sách cấm). Đã kiểm tra 26/11. Slide 6 dùng ảnh Pixabay id 4222025 (monicore) vì Canva báo quota cooldown khi tạo ảnh thứ 2–3.",
+ "slides": [
+  {
+   "label": "LAPTOP MỚI",
+   "html": "<div class='kicker'>Asus, bán ở Mỹ và châu Âu</div><div class='title md'>Laptop pin <span class='accent'>30 giờ</span>, giá dưới 1.000 USD?</div><div class='sub'>(Asus Vivobook S14 S5408, chip Snapdragon X)</div><div class='card' style='margin-top:40px'><img src='img/cover.jpg' style='height:600px;max-height:none'></div>",
+   "credit": "Ảnh minh họa AI (Canva), không phải Asus Vivobook S14"
+  },
+  {
+   "label": "PIN",
+   "html": "<div class='num'>01</div><div class='title md'>Pin 50 Wh, <span class='hl'>tới 30 giờ</span></div><div class='body'>Con số <b>30 giờ</b> là theo <b>thử nghiệm chính thức của Asus</b>. Bài báo không nói đo trong điều kiện nào (xem video, lướt web hay để chờ).</div><div class='note'><p>Pin: 50 Wh.</p><p>Nặng 1,28 kg, dày 14,9–16,9 mm.</p><p>Phím có đèn nền, hành trình 1,7 mm.</p></div><div class='pills'><span class='pill on'>50 Wh</span><span class='pill on'>1,28 kg</span><span class='pill on'>14 inch</span></div>"
+  },
+  {
+   "label": "CẤU HÌNH",
+   "html": "<div class='num'>02</div><div class='title md'>Chip ARM, <span class='hl'>màn 14 inch chống chói</span></div><div class='body'>Chip <b>Snapdragon X X1-26-101</b> 8 nhân, GPU tích hợp <b>Adreno X1-85</b>.</div><div class='note'><p>Màn IPS 14 inch, 1200p.</p><p>60 Hz, 300 nit, phủ chống chói.</p></div><div class='pills'><span class='pill on'>8 nhân</span><span class='pill on'>IPS 1200p</span><span class='pill'>60 Hz</span><span class='pill'>300 nit</span></div>"
+  },
+  {
+   "label": "GIÁ BÁN",
+   "html": "<div class='num'>03</div><div class='title md'>Giá mỗi nơi <span class='hl'>một kiểu</span></div><div class='bars'><div class='lab'>Bản Mỹ: 8 GB RAM, SSD 256 GB</div><div class='bar'><div class='f' style='width:50%'>8 GB</div><div style='flex:1'></div></div><div class='lab'>Châu Âu: RAM, SSD gấp đôi</div><div class='bar'><div class='f' style='width:100%'>16 GB</div></div></div><div class='note'><p>Mỹ: dưới 1.000 USD.</p><p>Châu Âu: 899 € (giảm từ 999 €).</p><p>Anh: 999 £ (giảm từ 1.099 £).</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Rẻ hơn thì <span class='hl'>đổi lại gì?</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Pin tới 30 giờ (Asus đo)</p><p>✓ Nhẹ 1,28 kg</p><p>✓ Rẻ hơn bản Intel</p></div><div class='con'><h4>Thiếu</h4><p>✗ Bản Mỹ chỉ 8 GB RAM</p><p>✗ RAM không nâng cấp được</p><p>✗ Màn 60 Hz, 300 nit</p></div></div><div class='note'><p>Tác giả <b>đoán</b>: GPU ngang bản thấp hơn.</p><p>Đó là suy đoán, chưa có thử nghiệm.</p><p>Bài chưa nhắc tới Việt Nam.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Pin trâu, <span class='hl'>giá mềm hơn.</span></div><div class='rule'></div><ol class='steps'><li>Pin 50 Wh, Asus nói tới 30 giờ.</li><li>Chip Snapdragon X 8 nhân, nặng 1,28 kg.</li><li>Chọn bản 16 GB nếu có, vì RAM không nâng cấp được.</li></ol><div class='card'><img src='img/bag.jpg' style='max-height:250px'></div><div class='hand' style='margin-top:10px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>",
+   "credit": "Ảnh minh họa: monicore / Pixabay"
+  }
+ ]
+}
