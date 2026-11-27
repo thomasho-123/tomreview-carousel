@@ -1,0 +1,32 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (26/11/2026) · Ảnh minh họa Pixabay, không phải ảnh cáp Lenovo",
+ "image_license": "Ảnh minh họa Pixabay id 4498745 (tomekwalecki). Không dùng ảnh hãng: nguồn của bài là trang bán hàng tk.lenovo.com.cn, không phải newsroom/press kit, không có câu ghi rõ cho phép dùng ảnh. Canva tạo được 1 ảnh (MAHcHFEB3Bc) nhưng generate-image thứ 2-3 và create-design đều báo quota cooldown nên không xuất được bản lớn.",
+ "slides": [
+  {
+   "label": "PHỤ KIỆN MỚI",
+   "html": "<div class='kicker'>Lenovo, bán ở Trung Quốc</div><div class='title md'>Cáp USB4 tự rút, <span class='accent'>sạc 240W</span>, giá 149 tệ?</div><div class='sub'>(ThinkPlus USB4 Full-function Retractable Data Cable)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:640px;max-height:none'></div>",
+   "credit": "Ảnh minh họa: tomekwalecki / Pixabay, không phải cáp Lenovo"
+  },
+  {
+   "label": "SẠC",
+   "html": "<div class='num'>01</div><div class='title md'>Sạc tối đa <span class='hl'>240W</span></div><div class='body'>Hỗ trợ <b>PD3.2</b>, <b>QC3.0</b> và <b>PPS</b>, có chip <b>E-Marker</b>. Notebookcheck cho rằng cáp sẽ dùng được với đa số thiết bị và sạc được phần lớn laptop.</div><div class='pills'><span class='pill on'>240W</span><span class='pill on'>PD3.2</span><span class='pill'>QC3.0</span><span class='pill'>PPS</span><span class='pill'>E-Marker</span></div><div class='note'><p>Ý tác giả, <b>chưa có bài thử</b>.</p></div>"
+  },
+  {
+   "label": "DỮ LIỆU & HÌNH",
+   "html": "<div class='num'>02</div><div class='title md'>Dữ liệu <span class='hl'>20Gbps</span>, xuất hình 4K 60Hz</div><div class='bars'><div class='lab'>Cáp Lenovo này (USB4)</div><div class='bar'><div class='f' style='width:100%'>20Gbps</div></div><div class='lab'>USB 3.2 Gen 2x2</div><div class='bar'><div class='f' style='width:100%'>cũng 20Gbps</div></div></div><div class='note'><p>20Gbps là <b>mức tối thiểu</b> của USB4.</p><p>Tốc độ, 4K 60Hz: số Lenovo công bố.</p></div>"
+  },
+  {
+   "label": "THIẾT KẾ & GIÁ",
+   "html": "<div class='num'>03</div><div class='title md'>Kéo ra dài <span class='hl'>1,2 m</span></div><div class='body'>Hộp cuộn hình <b>lòng bàn tay</b>, dây <b>bện</b> bên ngoài, rút trơn tru. Giá USD theo Notebookcheck.</div><div class='bars'><div class='lab'>Bản USB4 mới (Trung Quốc)</div><div class='bar'><div class='f' style='width:100%'>149 tệ ~ 22,36 USD</div></div><div class='lab'>Bản 240W không đạt USB4 (Lenovo toàn cầu)</div><div class='bar'><div class='f' style='width:54%'>11,99 USD</div><div style='flex:1'></div></div></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Gọi là USB4 nhưng <span class='hl'>chỉ mức cơ bản</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Sạc 240W</p><p>✓ Xuất hình 4K 60Hz</p><p>✓ Tự rút, dây bện 1,2 m</p></div><div class='con'><h4>Chưa rõ</h4><p>✗ Chỉ 20Gbps</p><p>✗ Chưa có màu, cân nặng</p><p>✗ Mới bán ở Trung Quốc</p></div></div><div class='note'><p>Tác giả bài gọi đây là món \"khá lạ\".</p><p>Bài chưa nhắc tới Việt Nam.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Gọn, sạc khỏe, <span class='hl'>tốc độ vừa phải.</span></div><div class='rule'></div><ol class='steps'><li>Cáp tự rút 1,2 m, sạc tới 240W, xuất hình 4K 60Hz.</li><li>Ghi USB4 nhưng chỉ 20Gbps, ngang USB 3.2 Gen 2x2.</li><li>Giá 149 tệ ở Trung Quốc, chưa có thông tin Việt Nam.</li></ol><div class='pills'><span class='pill on'>240W</span><span class='pill on'>20Gbps</span><span class='pill'>4K 60Hz</span><span class='pill'>1,2 m</span></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
