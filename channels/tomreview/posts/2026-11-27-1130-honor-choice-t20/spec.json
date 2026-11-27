@@ -1,0 +1,37 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (26/11/2026) · Ảnh minh họa Pixabay, không phải ảnh Honor Choice T20",
+ "image_license": "Ảnh minh họa Pixabay (id 3255267 VeConsultaHoy, id 1859843 qimono). Không dùng ảnh hãng: Honor chỉ có trang sản phẩm honor.com/eurasia, không thấy newsroom/press kit ghi rõ cho phép dùng ảnh (giống kết luận các lần 22/11, 24/11); ảnh trong bài gốc là ảnh báo đăng lại. Canva tạo được 1 ảnh nhưng create-design báo quota cooldown nên không xuất được bản lớn.",
+ "slides": [
+  {
+   "label": "ĐIỆN THOẠI MỚI",
+   "html": "<div class='kicker'>Honor, bán ở Nga</div><div class='title md'>Pin <span class='accent'>7.000 mAh</span>, giá khoảng 146 USD?</div><div class='sub'>(Honor Choice T20, máy phổ thông)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:640px;max-height:none'></div>",
+   "credit": "Ảnh minh họa: VeConsultaHoy / Pixabay, không phải Honor Choice T20"
+  },
+  {
+   "label": "PIN & SẠC",
+   "html": "<div class='num'>01</div><div class='title md'>Pin to hơn <span class='hl'>2.000 mAh</span> so với đời trước</div><div class='bars'><div class='lab'>Choice T10 (đời trước)</div><div class='bar'><div class='f' style='width:71%'>5.000 mAh · 10W</div><div style='flex:1'></div></div><div class='lab'>Choice T20 (mới)</div><div class='bar'><div class='f' style='width:100%'>7.000 mAh · 15W</div></div></div><div class='note'><p>Honor nói dùng liên tục <b>tới 10 giờ</b>.</p><p>Số của hãng, bài không nói đo thế nào.</p></div>"
+  },
+  {
+   "label": "CẤU HÌNH",
+   "html": "<div class='num'>02</div><div class='title md'>Màn 6,78 inch, <span class='hl'>90 Hz</span></div><div class='body'>Màn <b>IPS 1576 × 720</b>, sáng tối đa <b>600 nit</b>. Chip <b>Unisoc T7250</b> tiến trình 12 nm.</div><div class='note'><p>RAM 4 GB, bộ nhớ 64 GB.</p><p>Thẻ nhớ riêng, tới 1 TB.</p><p>Camera sau 13 MP, trước 5 MP.</p></div><div class='pills'><span class='pill on'>6,78 inch</span><span class='pill on'>90 Hz</span><span class='pill'>4 GB / 64 GB</span><span class='pill'>Android 16 Go</span></div>"
+  },
+  {
+   "label": "KẾT NỐI",
+   "html": "<div class='num'>03</div><div class='title md'>Vẫn còn <span class='hl'>jack 3.5 mm</span></div><div class='card'><img src='img/jack.jpg' style='max-height:300px'></div><div class='note'><p>USB-C 2.0, Wi-Fi 5, Bluetooth 5.2.</p><p>Vân tay cạnh, có nút tác vụ.</p><p>IP52, dày 8,75 mm, nặng 213 g.</p></div>",
+   "credit": "Ảnh minh họa: qimono / Pixabay, không phải Honor Choice T20"
+  },
+  {
+   "label": "GIÁ BÁN",
+   "html": "<div class='num'>04</div><div class='title md'>Mới có ở <span class='hl'>Nga và Uzbekistan</span></div><div class='bars'><div class='lab'>Nga: 11.999 rúp</div><div class='bar'><div class='f' style='width:100%'>~146 USD</div></div><div class='lab'>Uzbekistan: 1.650.000 som</div><div class='bar'><div class='f' style='width:95%'>~138 USD</div><div style='flex:1'></div></div></div><div class='note'><p>Ở Uzbekistan <b>chưa mở bán</b>.</p><p>USD do Notebookcheck quy đổi.</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Giá mềm thì <span class='hl'>đổi lại gì?</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Pin 7.000 mAh</p><p>✓ Có jack 3.5 mm</p><p>✓ Thẻ nhớ tới 1 TB</p></div><div class='con'><h4>Thiếu</h4><p>✗ Chỉ 4 GB RAM, 64 GB</p><p>✗ Màn 720p, không NFC</p><p>✗ Sạc 15W, IP52</p></div></div><div class='note'><p>\"Giống iPhone 17 Pro\" là ý tác giả.</p><p>Bài chưa nhắc tới Việt Nam.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Pin to, <span class='hl'>cấu hình cơ bản.</span></div><div class='rule'></div><ol class='steps'><li>Pin 7.000 mAh, sạc 15W, Honor nói dùng tới 10 giờ.</li><li>Màn 6,78 inch 90 Hz, RAM 4 GB, có jack 3.5 mm.</li><li>Giá khoảng 146 USD ở Nga, chưa có thông tin Việt Nam.</li></ol><div class='pills'><span class='pill on'>7.000 mAh</span><span class='pill on'>90 Hz</span><span class='pill'>Jack 3.5 mm</span><span class='pill'>Android Go</span></div><div class='hand' style='margin-top:20px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
