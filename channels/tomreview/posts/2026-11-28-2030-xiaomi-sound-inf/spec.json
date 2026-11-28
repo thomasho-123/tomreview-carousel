@@ -1,0 +1,33 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (27/11/2026) · Ảnh minh họa Pixabay, không phải Xiaomi Sound INF",
+ "image_license": "Ảnh minh họa Pixabay id 2557525 (StockSnap) cho cover, id 2557528 (StockSnap) cho slide 4. Không dùng ảnh hãng: không tìm thấy newsroom/press kit Xiaomi ghi rõ cho phép dùng ảnh Sound INF (nguồn ảnh là trang sản phẩm mi.com/global). Canva tạo được 1 ảnh (MAHcNNKmwWE) nhưng generate-image thứ 2 và create-design đều báo quota cooldown nên không xuất được bản lớn.",
+ "slides": [
+  {
+   "label": "LOA BLUETOOTH MỚI",
+   "html": "<div class='kicker'>Xiaomi, vừa lên trang web toàn cầu</div><div class='title md'>Loa Bluetooth <span class='accent'>150W</span>, pin tới 28 giờ?</div><div class='sub'>(Xiaomi Sound INF)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:570px;max-height:none'></div>",
+   "credit": "Ảnh minh họa: StockSnap / Pixabay, không phải Xiaomi Sound INF"
+  },
+  {
+   "label": "CÔNG SUẤT",
+   "html": "<div class='num'>01</div><div class='title md'>Tổng <span class='hl'>150W</span>, chia cho 3 củ loa</div><div class='bars'><div class='lab'>Loa trầm (woofer)</div><div class='bar'><div class='f' style='width:60%'>90W</div><div style='flex:1'></div></div><div class='lab'>2 loa tép (tweeter)</div><div class='bar'><div class='f' style='width:40%'>2 × 30W</div><div style='flex:1'></div></div></div><div class='note'><p>Có <b>chế độ tăng bass</b>. Số liệu theo</p><p><b>trang Xiaomi</b>, chưa có bài đo thử.</p></div>"
+  },
+  {
+   "label": "PIN & KẾT NỐI",
+   "html": "<div class='num'>02</div><div class='title md'>Pin <span class='hl'>9.800 mAh</span>, Bluetooth 6.0</div><div class='body'>Tối đa <b>28 giờ</b> khi bật <b>50% âm lượng</b>, dùng Bluetooth và <b>tắt hết đèn</b>.</div><div class='pills'><span class='pill on'>NFC</span><span class='pill'>Google Fast Pair</span><span class='pill on'>Lossless qua USB-C</span><span class='pill'>Auracast</span></div><div class='note'><p>Ghép <b>2 loa</b> thành cặp trái/phải.</p></div>"
+  },
+  {
+   "label": "ĐÈN & ĐỘ BỀN",
+   "html": "<div class='num'>03</div><div class='title md'>Đèn <span class='hl'>gương vô cực 3D</span>, chuẩn IP68</div><div class='body'>Có <b>3 chế độ đèn</b> trang trí. Chống bụi, nước <b>IP68</b>. Kích thước <b>340 × 142 × 135 mm</b>, nặng <b>2,7 kg</b>.</div><div class='card' style='margin-top:36px'><img src='img/water.jpg' style='max-height:420px'></div>",
+   "credit": "Ảnh minh họa: StockSnap / Pixabay, không phải Xiaomi Sound INF"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Thông số mạnh, nhưng <span class='hl'>giá còn bỏ ngỏ</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ 150W, có tăng bass</p><p>✓ IP68, Bluetooth 6.0</p><p>✓ Lossless qua USB-C</p></div><div class='con'><h4>Thiếu / chưa rõ</h4><p>✗ Nặng 2,7 kg</p><p>✗ 28 giờ là khi tắt đèn</p><p>✗ Chưa có giá toàn cầu</p></div></div><div class='note'><p>Alza (châu Âu) niêm yết <b>197 euro</b>,</p><p><b>chưa xác nhận ngày giao</b>.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Bản <span class='hl'>to và mạnh hơn</span> Sound Party.</div><ol class='steps'><li>150W (90W trầm + 2 × 30W tép), IP68.</li><li>Pin 9.800 mAh, tới 28 giờ (50% âm lượng, tắt đèn).</li><li>Alza niêm yết 197 euro; Xiaomi chưa công bố giá toàn cầu.</li></ol><div class='pills'><span class='pill on'>150W</span><span class='pill on'>28 giờ</span><span class='pill'>IP68</span><span class='pill'>2,7 kg</span></div><div class='hand' style='margin-top:24px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
