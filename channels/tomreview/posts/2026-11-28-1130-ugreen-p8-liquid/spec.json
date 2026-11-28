@@ -1,0 +1,32 @@
+{
+ "series": "TIN CÔNG NGHỆ",
+ "source": "Nguồn: Notebookcheck (27/11/2026) · Ảnh minh họa Pixabay, không phải Ugreen P8",
+ "image_license": "Ảnh minh họa Pixabay id 4396169 (LYOO_JW), cover + ảnh cắt cận cho slide cuối. Không dùng ảnh hãng: newsroom ugreen.com (blogs/newsroom-sg) không có bài/ảnh P8 tản nhiệt chất lỏng và không có câu ghi rõ cho phép dùng ảnh, chỉ ghi 'All rights reserved'. Canva tạo được 1 ảnh (MAHcK9tvt-U) nhưng generate-image thứ 2-3 và create-design đều báo quota cooldown nên không xuất được bản lớn.",
+ "slides": [
+  {
+   "label": "PIN DỰ PHÒNG MỚI",
+   "html": "<div class='kicker'>Ugreen, bán ở Trung Quốc từ 3/12</div><div class='title md'>Pin dự phòng có <span class='accent'>chất lỏng làm mát</span> bên trong?</div><div class='sub'>(Ugreen P8 bản tản nhiệt chất lỏng)</div><div class='card' style='margin-top:50px'><img src='img/cover.jpg' style='height:570px;max-height:none'></div>",
+   "credit": "Ảnh minh họa: LYOO_JW / Pixabay, không phải Ugreen P8"
+  },
+  {
+   "label": "LÀM MÁT",
+   "html": "<div class='num'>01</div><div class='title md'>Có <span class='hl'>bơm mini</span> đẩy chất làm mát</div><div class='bars'><div class='lab'>Giảm nhiệt độ đỉnh thêm</div><div class='bar'><div class='f' style='width:34%'>13°C</div><div style='flex:1'></div></div><div class='lab'>Hiệu quả tản nhiệt tăng</div><div class='bar'><div class='f' style='width:38%'>38%</div><div style='flex:1'></div></div></div><div class='note'><p>Số liệu do <b>hãng công bố</b>.</p><p>Chưa có bài đo độc lập.</p></div>"
+  },
+  {
+   "label": "PIN & SẠC",
+   "html": "<div class='num'>02</div><div class='title md'>10.000 mAh, <span class='hl'>cáp USB-C liền thân 45W</span></div><div class='body'>Cell <b>ATL lithium cobalt oxide</b>, mật độ năng lượng <b>773 Wh/L</b>. Có <b>màn hình TFT</b> hiện thông tin sạc theo thời gian thực.</div><div class='pills'><span class='pill on'>45W có dây</span><span class='pill on'>15W không dây</span><span class='pill'>PD</span><span class='pill'>PPS</span><span class='pill'>QC</span><span class='pill'>Apple AVS</span></div><div class='note'><p>Hút nam châm, <b>hợp MagSafe</b>.</p></div>"
+  },
+  {
+   "label": "SO VỚI P8 THƯỜNG",
+   "html": "<div class='num'>03</div><div class='title md'>Mát hơn, nhưng sạc không dây <span class='hl'>chậm hơn</span></div><div class='bars'><div class='lab'>P8 bản thường (tháng 7)</div><div class='bar'><div class='f' style='width:100%'>25W không dây</div></div><div class='lab'>P8 tản nhiệt chất lỏng (mới)</div><div class='bar'><div class='f' style='width:60%'>15W không dây</div><div style='flex:1'></div></div></div><div class='note'><p>Trước đó: <b>MagFlow Pro</b>, cũng</p><p>làm mát chất lỏng, ra ở <b>IFA 2026</b>.</p></div>"
+  },
+  {
+   "label": "NHƯNG KHOAN",
+   "html": "<div class='title md'>Hấp dẫn, nhưng <span class='hl'>còn nhiều điều chưa rõ</span></div><div class='pc'><div class='pro'><h4>Được</h4><p>✓ Bơm làm mát chủ động</p><p>✓ Cáp liền 45W</p><p>✓ Màn TFT xem số liệu sạc</p></div><div class='con'><h4>Thiếu / chưa rõ</h4><p>✗ Không dây chỉ 15W</p><p>✗ Số liệu nhiệt do hãng tự nói</p><p>✗ Chưa có giá quốc tế</p></div></div><div class='note'><p>Giá, lịch bán quốc tế:</p><p><b>chưa công bố</b>.</p></div>"
+  },
+  {
+   "label": "TÓM LẠI",
+   "html": "<div class='title md'>Pin chú trọng <span class='hl'>mát</span>, không chạy theo tốc độ.</div><ol class='steps'><li>10.000 mAh, bơm mini làm mát, cáp liền 45W.</li><li>Sạc không dây 15W, chậm hơn P8 thường (25W).</li><li>Bán ở Trung Quốc từ 3/12, giá 459 tệ (~67 USD).</li></ol><div class='pills'><span class='pill on'>10.000 mAh</span><span class='pill on'>45W</span><span class='pill'>15W không dây</span><span class='pill'>459 tệ</span></div><div class='hand' style='margin-top:24px'>Theo dõi để cập nhật tin công nghệ mỗi ngày!</div>"
+  }
+ ]
+}
